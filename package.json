@@ -1,73 +1,79 @@
 {
-    "name": "basis-vscode-theme",
-    "displayName": "%displayName%",
-    "description": "%description%",
-    "version": "0.1.0",
-    "publisher": "DieGOs",
-    "license": "MIT",
-    "icon": "icon.png",
-    "galleryBanner": {
-        "color": "#1E252B",
-        "theme": "dark"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/9585999/basis-vscode-theme"
-    },
-    "bugs": {
-        "url": "https://github.com/9585999/basis-vscode-theme/issues"
-    },
-    "engines": {
-        "vscode": "^1.73.0"
-    },
-    "categories": [
-        "Themes",
-        "Other"
-    ],
-    "keywords": [
-        "atom",
-        "theme",
-        "dark",
-        "light",
-        "one dark",
-        "onedark",
-        "one light",
-        "onelight",
-        "github",
-        "github dark"
-    ],
-    "extensionKind": [
-        "ui",
-        "workspace"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Basis Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dark.json"
-            },
-            {
-                "label": "Basis Dark GitHub",
-                "uiTheme": "vs-dark",
-                "path": "./themes/dark-github.json"
-            },
-            {
-                "label": "Basis Light",
-                "uiTheme": "vs",
-                "path": "./themes/light.json"
-            }
-        ]
-    },
-    "devDependencies": {
-        "chroma-js": "^2.4.2",
-        "nodemon": "^2.0.20",
-        "vsce": "^2.13.0"
-    },
-    "scripts": {
-        "build": "node build/index.js",
-        "watch": "nodemon build/index.js",
-        "package": "npm run build && vsce package",
-        "publish": "npm run package && vsce publish"
-    }
+	"name": "basis-vscode-theme",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "0.1.0",
+	"publisher": "DieGOs",
+	"license": "MIT",
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#1E252B",
+		"theme": "dark"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/9585999/basis-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/9585999/basis-vscode-theme/issues"
+	},
+	"engines": {
+		"vscode": "^1.73.0"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"keywords": [
+		"atom",
+		"theme",
+		"dark",
+		"light",
+		"one dark",
+		"onedark",
+		"one light",
+		"onelight",
+		"github",
+		"github dark"
+	],
+	"extensionKind": [
+		"ui",
+		"workspace"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Basis Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark.json"
+			},
+			{
+				"label": "Basis Dark GitHub",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-github.json"
+			},
+			{
+				"label": "Basis Light",
+				"uiTheme": "vs",
+				"path": "./themes/light.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"chroma-js": "^2.4.2",
+		"nodemon": "^2.0.20",
+		"vsce": "^2.13.0"
+	},
+	"scripts": {
+		"build": "node build/index.js",
+		"watch": "nodemon build/index.js",
+		"package": "npm run build && vsce package",
+		"publish": "npm run package && vsce publish"
+	},
+	"__metadata": {
+		"id": "a1d1cf3f-7dc6-4dc8-bc7e-f9b694bf25b6",
+		"publisherDisplayName": "DieGOs",
+		"publisherId": "34d79735-bc38-43be-826e-2e240efb3da8",
+		"isPreReleaseVersion": false
+	}
 }
