@@ -66,6 +66,8 @@
     },
     "scripts": {
         "build": "node build/index.js",
-        "watch": "nodemon build/index.js"
+        "watch": "nodemon build/index.js",
+        "package": "npm run build && vsce package",
+        "publish": "npm run package && vsce publish"
     }
 }
