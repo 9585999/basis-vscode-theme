@@ -5,3 +5,6 @@
 
 ## 0.2.0
 - ReInitial release
+
+## 0.2.1
+- Update Description
