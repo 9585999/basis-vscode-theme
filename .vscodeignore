@@ -1,0 +1,8 @@
+.vscode/**
+.vscode-test/**
+.changeset/
+.gitignore
+/node_modules/
+/package-lock.json
+/src/
+/build/

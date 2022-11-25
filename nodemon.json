@@ -1,0 +1,16 @@
+{
+	"$schema": "https://json.schemastore.org/nodemon",
+	"verbose": false,
+	"execMap": {
+		"js": "node --harmony"
+	},
+	"watch": [
+		"build",
+		"src"
+	],
+	"ignore": [ ".git", "node_modules" ],
+	"env": {
+		"NODE_ENV": "development"
+	},
+	"ext": "js,yml,yaml"
+}

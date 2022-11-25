@@ -1,0 +1,29 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"presentation": {
+				"reveal": "silent",
+			},
+			"problemMatcher": [],
+			"label": "npm: build",
+			"detail": "node build/index.js"
+		},
+		{
+			"type": "npm",
+			"script": "watch",
+			"group": "build",
+			"presentation": {
+				"reveal": "silent",
+			},
+			"label": "npm: watch",
+			"detail": "nodemon build/index.js"
+		}
+	]
+}
