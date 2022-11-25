@@ -1,5 +1,8 @@
 # basis-vscode-theme
 
+## 0.2.3
+- Update highlightForeground
+
 ## 0.2.2
 - Update Description
 
