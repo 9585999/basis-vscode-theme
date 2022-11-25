@@ -68,7 +68,7 @@
 		"build": "node build/index.js",
 		"watch": "nodemon build/index.js",
 		"package": "npm run build && vsce package",
-		"publish": "npm run package && vsce publish"
+		"publish": "npm run package && vsce publish && rm *.vsix"
 	},
 	"__metadata": {
 		"id": "a1d1cf3f-7dc6-4dc8-bc7e-f9b694bf25b6",
