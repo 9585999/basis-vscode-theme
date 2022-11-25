@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"icon": "icon.png",
 	"galleryBanner": {
-		"color": "#1E252B",
+		"color": "#232A30",
 		"theme": "dark"
 	},
 	"repository": {
@@ -74,6 +74,11 @@
 		"id": "a1d1cf3f-7dc6-4dc8-bc7e-f9b694bf25b6",
 		"publisherDisplayName": "DieGOs",
 		"publisherId": "34d79735-bc38-43be-826e-2e240efb3da8",
-		"isPreReleaseVersion": false
+		"isPreReleaseVersion": false,
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"installedTimestamp": 1669389203677,
+		"preRelease": false
 	}
 }
