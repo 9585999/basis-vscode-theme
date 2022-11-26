@@ -1,5 +1,8 @@
 # basis-vscode-theme
 
+## 0.3.0
+- Add Basis Light GitHub Theme
+
 ## 0.2.3
 - Update highlightForeground
 

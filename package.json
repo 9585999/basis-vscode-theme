@@ -2,7 +2,7 @@
 	"name": "basis-vscode-theme",
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "0.2.3",
+	"version": "0.3.0",
 	"publisher": "DieGOs",
 	"license": "MIT",
 	"icon": "icon.png",
@@ -36,10 +36,6 @@
 		"github",
 		"github dark"
 	],
-	"extensionKind": [
-		"ui",
-		"workspace"
-	],
 	"contributes": {
 		"themes": [
 			{
@@ -56,6 +52,11 @@
 				"label": "Basis Light",
 				"uiTheme": "vs",
 				"path": "./themes/light.json"
+			},
+			{
+				"label": "Basis Light GitHub",
+				"uiTheme": "vs",
+				"path": "./themes/light-github.json"
 			}
 		]
 	},
