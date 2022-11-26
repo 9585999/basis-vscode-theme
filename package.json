@@ -25,6 +25,7 @@
 		"Other"
 	],
 	"keywords": [
+		"basis",
 		"atom",
 		"theme",
 		"dark",
@@ -34,7 +35,8 @@
 		"one light",
 		"onelight",
 		"github",
-		"github dark"
+		"github dark",
+		"github light"
 	],
 	"contributes": {
 		"themes": [
