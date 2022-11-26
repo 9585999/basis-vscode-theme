@@ -1,5 +1,8 @@
 # basis-vscode-theme
 
+## 0.3.1
+- Update Icon
+
 ## 0.3.0
 - Add Basis Light GitHub Theme
 
