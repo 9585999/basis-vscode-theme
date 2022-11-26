@@ -4,10 +4,10 @@
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=DieGOs.basis-vscode-theme).
 2. Click on the "Install" button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
-  - `Basis Dark`
   - `Basis Light`
-  - `Basis GitHub Dark`
-  - `Basis GitHub Light`
+  - `Basis Light GitHub`
+  - `Basis Dark`
+  - `Basis Dark GitHub`
 
 ### Basis Dark
 ![basis-dark](https://user-images.githubusercontent.com/16165904/204079778-d4230248-f629-4549-b59d-169f45f2e952.png)
