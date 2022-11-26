@@ -10,13 +10,13 @@
   - `Basis GitHub Light`
 
 ### Basis Dark
-![basis-dark](https://user-images.githubusercontent.com/16165904/204079426-29287b27-655f-455e-9fdb-6333d28390c9.png)
+![basis-dark](https://user-images.githubusercontent.com/16165904/204079778-d4230248-f629-4549-b59d-169f45f2e952.png)
 
 ### Basis Light
-![basis-light](https://user-images.githubusercontent.com/16165904/204079439-ebc8083f-d420-4372-80f7-5f7b8abbe0db.png)
+![basis-light](https://user-images.githubusercontent.com/16165904/204079784-dea100a4-645a-41b8-b60f-9321a31f2013.png)
 
 ### Basis Dark GitHub
-![basis-dark-github](https://user-images.githubusercontent.com/16165904/204079462-17a22b62-85b5-4fda-b3db-3eb575851efc.png)
+![basis-dark-github](https://user-images.githubusercontent.com/16165904/204079789-9aa1eb7a-43a4-4e83-b0cf-042dede8a0e9.png)
 
 ### Basis Light GitHub
-![basis-light-github](https://user-images.githubusercontent.com/16165904/204079471-166a824d-7df8-4b8e-9fd9-8a0a7a589c4a.png)
+![basis-light-github](https://user-images.githubusercontent.com/16165904/204079799-f6720b3d-c914-48ae-a86a-70d49b41df46.png)
