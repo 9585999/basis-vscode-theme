@@ -270,7 +270,7 @@
                 "punctuation.definition.decorator"
             ],
             "settings": {
-                "foreground": "#f97583"
+                "foreground": "#b392f0"
             }
         },
         {
@@ -525,7 +525,7 @@
                 "keyword.operator.decorator"
             ],
             "settings": {
-                "foreground": "#f97583"
+                "foreground": "#b392f0"
             }
         },
         {
@@ -701,7 +701,7 @@
                 "punctuation.decorator.tsx"
             ],
             "settings": {
-                "foreground": "#f97583"
+                "foreground": "#b392f0"
             }
         },
         {
