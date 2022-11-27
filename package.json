@@ -2,7 +2,7 @@
 	"name": "basis-vscode-theme",
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "0.3.1",
+	"version": "0.3.2",
 	"publisher": "DieGOs",
 	"license": "MIT",
 	"icon": "icon.png",
@@ -31,9 +31,7 @@
 		"dark",
 		"light",
 		"one dark",
-		"onedark",
 		"one light",
-		"onelight",
 		"github",
 		"github dark",
 		"github light"
