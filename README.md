@@ -1,4 +1,5 @@
 # Basis VS Code themes
+![preview](https://user-images.githubusercontent.com/16165904/204131618-690126ea-b756-4a18-b746-a45529942c10.png)
 
 ## Install
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=DieGOs.basis-vscode-theme).
