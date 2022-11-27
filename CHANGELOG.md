@@ -1,5 +1,8 @@
 # basis-vscode-theme
 
+## 0.3.3
+- Update README
+
 ## 0.3.2
 - Update Icon
 - Update Decorator colors
