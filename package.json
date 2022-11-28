@@ -32,12 +32,11 @@
 		"dark",
 		"light",
 
-		"github",
-		"github dark",
-		"github light",
-
 		"one dark",
-		"one light"
+		"one light",
+
+		"github dark",
+		"github light"
 	],
 	"contributes": {
 		"themes": [
