@@ -2,12 +2,12 @@
 	"name": "basis-vscode-theme",
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "0.3.3",
+	"version": "0.3.4",
 	"publisher": "DieGOs",
 	"license": "MIT",
 	"icon": "icon.png",
 	"galleryBanner": {
-		"color": "#232A30",
+		"color": "#232323",
 		"theme": "dark"
 	},
 	"repository": {

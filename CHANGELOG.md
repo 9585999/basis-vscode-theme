@@ -1,5 +1,8 @@
 # basis-vscode-theme
 
+## 0.3.4
+- Update README
+
 ## 0.3.3
 - Update README
 
