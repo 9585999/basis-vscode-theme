@@ -26,15 +26,18 @@
 	],
 	"keywords": [
 		"basis",
-		"atom",
 		"theme",
+		"atom",
+
 		"dark",
 		"light",
-		"one dark",
-		"one light",
+
 		"github",
 		"github dark",
-		"github light"
+		"github light",
+
+		"one dark",
+		"one light"
 	],
 	"contributes": {
 		"themes": [
