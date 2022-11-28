@@ -22,11 +22,13 @@
 ### Basis Light GitHub
 ![basis-light-github](https://user-images.githubusercontent.com/16165904/204079799-f6720b3d-c914-48ae-a86a-70d49b41df46.png)
 
-## Suggest Editor Settings
+## Recommended Editor Settings
 ```json
 {
   "editor.fontSize": 16,
   "editor.lineHeight": 2,
-  "editor.fontFamily": "Operator Mono",
+  "editor.cursorWidth": 2,
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "blink"
 }
 ```
