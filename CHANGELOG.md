@@ -1,5 +1,11 @@
 # basis-vscode-theme
 
+## 0.4.1
+- Update CHANGELOG.md
+
+## 0.4.0
+- Add Basis Dark Brewer Theme
+
 ## 0.3.5
 - Add Dark Theme syntax colors.
 
