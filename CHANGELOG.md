@@ -2,6 +2,7 @@
 
 ## 0.4.1
 - Update CHANGELOG.md
+- Update Keywords
 
 ## 0.4.0
 - Add Basis Dark Brewer Theme
