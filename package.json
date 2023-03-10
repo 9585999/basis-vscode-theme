@@ -2,7 +2,7 @@
 	"name": "basis-vscode-theme",
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "0.3.5",
+	"version": "0.4.0",
 	"publisher": "DieGOs",
 	"license": "MIT",
 	"icon": "icon.png",
@@ -45,6 +45,11 @@
 				"path": "./themes/dark.json"
 			},
 			{
+				"label": "Basis Dark Brewer",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-brewer.json"
+			},
+			{
 				"label": "Basis Dark GitHub",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark-github.json"
@@ -63,7 +68,7 @@
 	},
 	"devDependencies": {
 		"chroma-js": "^2.4.2",
-		"nodemon": "^2.0.20",
+		"nodemon": "^2.0.21",
 		"vsce": "^2.13.0"
 	},
 	"scripts": {
