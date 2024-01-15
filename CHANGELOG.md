@@ -1,5 +1,16 @@
 # basis-vscode-theme
 
+## 0.4.3
+Update colors:
+- editorIndentGuide.background
+- editorIndentGuide.activeBackground
+- editorRuler.foreground
+
+Remove:
+- titleBar.border
+- tab.border
+- tab.lastPinnedBorder
+
 ## 0.4.2
 Update colors:
 - titleBar.activeBackground
