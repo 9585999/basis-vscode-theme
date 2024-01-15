@@ -1,5 +1,20 @@
 # basis-vscode-theme
 
+## 0.4.2
+Update colors:
+- titleBar.activeBackground
+- titleBar.activeForeground
+- titleBar.border
+- commandCenter.foreground
+- commandCenter.activeForeground
+- commandCenter.background
+- commandCenter.activeBackground
+- commandCenter.border
+- editorWhitespace.foreground
+- editorIndentGuide.background
+- editorIndentGuide.activeBackground
+- editorRuler.foreground
+
 ## 0.4.1
 - Update CHANGELOG.md
 - Update Keywords
