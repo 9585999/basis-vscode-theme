@@ -1,5 +1,11 @@
 # basis-vscode-theme
 
+## 0.4.4
+Update colors:
+- titleBar.border
+- tab.border
+- tab.lastPinnedBorder
+
 ## 0.4.3
 Update colors:
 - editorIndentGuide.background
