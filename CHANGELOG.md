@@ -1,5 +1,10 @@
 # basis-vscode-theme
 
+## 0.4.5
+Update colors:
+- window.activeBorder
+- sideBar.border
+
 ## 0.4.4
 Update colors:
 - titleBar.border
