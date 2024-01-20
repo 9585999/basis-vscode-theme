@@ -2,7 +2,7 @@
 	"name": "basis-vscode-theme",
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "0.4.5",
+	"version": "0.4.6",
 	"publisher": "DieGOs",
 	"license": "MIT",
 	"icon": "icon.png",
