@@ -72,8 +72,6 @@
         "sideBarSectionHeader.border": "#12191f",
         "editorGroup.border": "#12191f",
         "editorGroup.dropBackground": "#ffffff0d",
-        "editorGroup.emptyBackground": "#1e252b",
-        "editorGroupHeader.border": "#232a3000",
         "editorGroupHeader.noTabsBackground": "#1e252b",
         "editorGroupHeader.tabsBackground": "#1e252b",
         "editorGroupHeader.tabsBorder": "#12191f",

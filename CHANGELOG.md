@@ -1,5 +1,10 @@
 # basis-vscode-theme
 
+## 0.4.7
+Remove colors:
+- editorGroup.emptyBackground
+- editorGroupHeader.border
+
 ## 0.4.6
 Update colors:
 - titleBar.border
