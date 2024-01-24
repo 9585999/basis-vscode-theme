@@ -1,5 +1,19 @@
 # basis-vscode-theme
 
+## 0.5.0
+Add Colors
+- statusBarItem.compactHoverBackground
+
+Update colors:
+- activityBar.background
+- activityBar.foreground
+- activityBar.dropBorder
+- activityBar.inactiveForeground
+- statusBarItem.activeBackground
+- statusBarItem.hoverBackground
+- statusBarItem.remoteForeground
+- statusBarItem.remoteHoverForeground
+
 ## 0.4.7
 Remove colors:
 - editorGroup.emptyBackground
