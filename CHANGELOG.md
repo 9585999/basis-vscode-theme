@@ -1,5 +1,10 @@
 # basis-vscode-theme
 
+## 0.5.1
+Add Colors
+- window.activeBorder
+- window.inactiveBorder
+
 ## 0.5.0
 Add Colors
 - statusBarItem.compactHoverBackground
