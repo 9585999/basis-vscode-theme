@@ -10,8 +10,6 @@
         "descriptionForeground": "#6a737d",
         "icon.foreground": "#D1D5DB",
         "sash.hoverBorder": "#ED7C68",
-        "window.activeBorder": "#000000",
-        "window.inactiveBorder": "#000000",
         "textBlockQuote.background": "#24292e00",
         "textLink.activeForeground": "#ffffff",
         "textLink.foreground": "#79b8ff",
