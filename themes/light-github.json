@@ -84,8 +84,6 @@
         "tab.inactiveBackground": "#F6F8FA",
         "tab.inactiveForeground": "#91969d",
         "tab.unfocusedInactiveForeground": "#91969d",
-        "tab.hoverForeground": "#191d21",
-        "tab.unfocusedHoverForeground": "#191d21",
         "settings.headerForeground": "#191d21",
         "settings.modifiedItemIndicator": "#005DC5",
         "settings.dropdownBackground": "#F6F8FA",

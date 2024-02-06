@@ -1,5 +1,10 @@
 # basis-vscode-theme
 
+## 0.5.3
+Remove Colors
+- tab.hoverForeground
+- tab.unfocusedHoverForeground
+
 ## 0.5.2
 Remove Colors
 - window.activeBorder
