@@ -47,11 +47,6 @@
 				"path": "./themes/dark.json"
 			},
 			{
-				"label": "Basis Dark Brewer",
-				"uiTheme": "vs-dark",
-				"path": "./themes/dark-brewer.json"
-			},
-			{
 				"label": "Basis Dark GitHub",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark-github.json"
